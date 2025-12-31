@@ -30,16 +30,13 @@
 ## 📺 产品演示视频
 
 产品演示视频（运营级真实展示）：  
-<video width="100%" controls>
-  <source src="https://cdn.xxx.com/tianci-demo.mp4" type="video/mp4">
-</video>
+https://www.youtube.com/watch?v=omEu0rx5bLw
 
 
 ## 🖼 产品截图展示
 
-![天禧棋牌大厅](images/lobby.png)
-![天禧棋牌游戏界面](images/game.png)
-![天禧棋牌后台系统](images/admin.png)
+![天禧棋牌大厅](https://img.booan.com/wp-content/uploads/2025/12/ca536277b120251220173214.webp)
+![天禧棋牌游戏界面](https://img.booan.com/wp-content/uploads/2025/12/e55efe3db520251220173233.webp)
 
 ## ⚠ 特别提示
 
