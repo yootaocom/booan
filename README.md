@@ -5,6 +5,12 @@
 内置成熟的代理系统、渠道系统，
 长期在线稳定运营，适合棋牌游戏系统技术研究与二次开发。
 
+## 📞 联系我们
+
+🌐 官方网站：https://www.booan.com
+💬 Telegram：@booanimbot
+👥 TG 群：https://t.me/booancom
+
 ## 📖 项目简介
 
 天禧棋牌在业内属于长期在线运营的棋牌游戏系统，
