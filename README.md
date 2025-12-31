@@ -30,7 +30,10 @@
 ## 📺 产品演示视频
 
 产品演示视频（运营级真实展示）：  
-👉 https://youtu.be/omEu0rx5bLw?si=5TOnvoTKmMIGPBY_
+<video width="100%" controls>
+  <source src="https://cdn.xxx.com/tianci-demo.mp4" type="video/mp4">
+</video>
+
 
 ## 🖼 产品截图展示
 
