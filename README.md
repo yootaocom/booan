@@ -30,7 +30,7 @@
 ## 📺 产品演示视频
 
 产品演示视频（运营级真实展示）：  
-👉 https://your-video-link.com
+👉 https://youtu.be/omEu0rx5bLw?si=5TOnvoTKmMIGPBY_
 
 ## 🖼 产品截图展示
 
