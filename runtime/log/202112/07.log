@@ -1,0 +1,120 @@
+---------------------------------------------------------------
+[ 2021-12-07T06:33:36+08:00 ] 110.7.23.35 GET www.snztc.cn/?channelCode=201&cl_id=0de358pir8pa30c0&app_id=com.yicong.ants&uuid=fbb73ff6-9bf9-ebee-dbc7-ffd4fd556f7f&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjI5YWY3NWQ5NzBhM2RkZWJlZTk4YzU0OWViODhkMzZjIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIyOWFmNzVkOTcwYTNkZGViZWU5OGM1NDllYjg4ZDM2YyIsImlhdCI6MTYzNzk4MjQ1OSwiZXhwIjoxNjQ1NzU4NDU5LCJ1aWQiOjE0OTE3OTU1LCJtb2JpbGUiOiIxMzUxNDg2NjAxOSJ9.-M7Q7lIEL4TTzxmaoegRNJ55EjXCJdTp25k3Z9OJdYs
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T06:33:36+08:00 ] 110.7.23.35 GET www.snztc.cn/?channelCode=201&cl_id=0de358pir8pa30c0&app_id=com.yicong.ants&uuid=fbb73ff6-9bf9-ebee-dbc7-ffd4fd556f7f&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjI5YWY3NWQ5NzBhM2RkZWJlZTk4YzU0OWViODhkMzZjIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIyOWFmNzVkOTcwYTNkZGViZWU5OGM1NDllYjg4ZDM2YyIsImlhdCI6MTYzNzk4MjQ1OSwiZXhwIjoxNjQ1NzU4NDU5LCJ1aWQiOjE0OTE3OTU1LCJtb2JpbGUiOiIxMzUxNDg2NjAxOSJ9.-M7Q7lIEL4TTzxmaoegRNJ55EjXCJdTp25k3Z9OJdYs
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T06:33:36+08:00 ] 110.7.23.35 GET www.snztc.cn/?channelCode=201&cl_id=0de358pir8pa30c0&app_id=com.yicong.ants&uuid=fbb73ff6-9bf9-ebee-dbc7-ffd4fd556f7f&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjI5YWY3NWQ5NzBhM2RkZWJlZTk4YzU0OWViODhkMzZjIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIyOWFmNzVkOTcwYTNkZGViZWU5OGM1NDllYjg4ZDM2YyIsImlhdCI6MTYzNzk4MjQ1OSwiZXhwIjoxNjQ1NzU4NDU5LCJ1aWQiOjE0OTE3OTU1LCJtb2JpbGUiOiIxMzUxNDg2NjAxOSJ9.-M7Q7lIEL4TTzxmaoegRNJ55EjXCJdTp25k3Z9OJdYs
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T06:33:36+08:00 ] 110.7.23.35 GET www.snztc.cn/?channelCode=201&cl_id=0de358pir8pa30c0&app_id=com.yicong.ants&uuid=fbb73ff6-9bf9-ebee-dbc7-ffd4fd556f7f&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjI5YWY3NWQ5NzBhM2RkZWJlZTk4YzU0OWViODhkMzZjIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIyOWFmNzVkOTcwYTNkZGViZWU5OGM1NDllYjg4ZDM2YyIsImlhdCI6MTYzNzk4MjQ1OSwiZXhwIjoxNjQ1NzU4NDU5LCJ1aWQiOjE0OTE3OTU1LCJtb2JpbGUiOiIxMzUxNDg2NjAxOSJ9.-M7Q7lIEL4TTzxmaoegRNJ55EjXCJdTp25k3Z9OJdYs
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:13:45+08:00 ] 39.187.230.195 GET www.snztc.cn/?channelCode=201&cl_id=f4e608pgha7nt840
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:13:45+08:00 ] 39.187.230.195 GET www.snztc.cn/?channelCode=201&cl_id=f4e608pgha7nt840
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:13:45+08:00 ] 39.187.230.195 GET www.snztc.cn/?channelCode=201&cl_id=f4e608pgha7nt840
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:13:45+08:00 ] 39.187.230.195 GET www.snztc.cn/?channelCode=201&cl_id=f4e608pgha7nt840
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:28:52+08:00 ] 112.39.99.102 GET www.snztc.cn/?channelCode=201&cl_id=d24c78pghxsa80f1
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:28:52+08:00 ] 112.39.99.102 GET www.snztc.cn/?channelCode=201&cl_id=d24c78pghxsa80f1
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:28:52+08:00 ] 112.39.99.102 GET www.snztc.cn/?channelCode=201&cl_id=d24c78pghxsa80f1
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:28:52+08:00 ] 112.39.99.102 GET www.snztc.cn/?channelCode=201&cl_id=d24c78pghxsa80f1
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:56+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:56+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:56+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:56+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:56+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:56+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:56+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:56+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:59+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:59+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:59+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:35:59+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:00+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:00+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:00+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:00+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:02+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:02+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:02+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:02+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:03+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:04+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:04+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:04+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:13+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:13+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:13+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-07T09:36:13+08:00 ] 39.187.230.195 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused

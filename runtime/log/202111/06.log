@@ -1,0 +1,267 @@
+---------------------------------------------------------------
+[ 2021-11-06T07:41:14+08:00 ] 223.91.212.84 GET www.jyhuojia.cn/?channelCode=201&cl_id=6e093ghgxxsq5c6b&app_id=com.yicong.ants&uuid=c84119c935e5f6b732fddd2180d03ed9dfd26daf0086e3fbba4ec4c25a7aaf08&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjBiOGM3MTNlMDVhMTY1ZmU4M2FiZTk3MjJhZDEwMDM0In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwYjhjNzEzZTA1YTE2NWZlODNhYmU5NzIyYWQxMDAzNCIsImlhdCI6MTYzNTIwNTA0OCwiZXhwIjoxNjQyOTgxMDQ4LCJ1aWQiOjEzOTA0OTkwLCJtb2JpbGUiOiIxMzk0OTYzMzk3NyJ9.xTghTxi7hRBYzLq8bn5qFDkCf8Fk91mqhVDWRuqu1dw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T07:41:14+08:00 ] 223.91.212.84 GET www.jyhuojia.cn/?channelCode=201&cl_id=6e093ghgxxsq5c6b&app_id=com.yicong.ants&uuid=c84119c935e5f6b732fddd2180d03ed9dfd26daf0086e3fbba4ec4c25a7aaf08&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjBiOGM3MTNlMDVhMTY1ZmU4M2FiZTk3MjJhZDEwMDM0In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwYjhjNzEzZTA1YTE2NWZlODNhYmU5NzIyYWQxMDAzNCIsImlhdCI6MTYzNTIwNTA0OCwiZXhwIjoxNjQyOTgxMDQ4LCJ1aWQiOjEzOTA0OTkwLCJtb2JpbGUiOiIxMzk0OTYzMzk3NyJ9.xTghTxi7hRBYzLq8bn5qFDkCf8Fk91mqhVDWRuqu1dw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T07:41:14+08:00 ] 223.91.212.84 GET www.jyhuojia.cn/?channelCode=201&cl_id=6e093ghgxxsq5c6b&app_id=com.yicong.ants&uuid=c84119c935e5f6b732fddd2180d03ed9dfd26daf0086e3fbba4ec4c25a7aaf08&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjBiOGM3MTNlMDVhMTY1ZmU4M2FiZTk3MjJhZDEwMDM0In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwYjhjNzEzZTA1YTE2NWZlODNhYmU5NzIyYWQxMDAzNCIsImlhdCI6MTYzNTIwNTA0OCwiZXhwIjoxNjQyOTgxMDQ4LCJ1aWQiOjEzOTA0OTkwLCJtb2JpbGUiOiIxMzk0OTYzMzk3NyJ9.xTghTxi7hRBYzLq8bn5qFDkCf8Fk91mqhVDWRuqu1dw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T07:41:14+08:00 ] 223.91.212.84 GET www.jyhuojia.cn/?channelCode=201&cl_id=6e093ghgxxsq5c6b&app_id=com.yicong.ants&uuid=c84119c935e5f6b732fddd2180d03ed9dfd26daf0086e3fbba4ec4c25a7aaf08&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjBiOGM3MTNlMDVhMTY1ZmU4M2FiZTk3MjJhZDEwMDM0In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwYjhjNzEzZTA1YTE2NWZlODNhYmU5NzIyYWQxMDAzNCIsImlhdCI6MTYzNTIwNTA0OCwiZXhwIjoxNjQyOTgxMDQ4LCJ1aWQiOjEzOTA0OTkwLCJtb2JpbGUiOiIxMzk0OTYzMzk3NyJ9.xTghTxi7hRBYzLq8bn5qFDkCf8Fk91mqhVDWRuqu1dw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T07:42:01+08:00 ] 223.91.212.84 GET www.jyhuojia.cn/?channelCode=201&cl_id=a616fghgxxsc8d56&app_id=com.yicong.ants&uuid=c84119c935e5f6b732fddd2180d03ed9dfd26daf0086e3fbba4ec4c25a7aaf08&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjBiOGM3MTNlMDVhMTY1ZmU4M2FiZTk3MjJhZDEwMDM0In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwYjhjNzEzZTA1YTE2NWZlODNhYmU5NzIyYWQxMDAzNCIsImlhdCI6MTYzNTIwNTA0OCwiZXhwIjoxNjQyOTgxMDQ4LCJ1aWQiOjEzOTA0OTkwLCJtb2JpbGUiOiIxMzk0OTYzMzk3NyJ9.xTghTxi7hRBYzLq8bn5qFDkCf8Fk91mqhVDWRuqu1dw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T07:42:01+08:00 ] 223.91.212.84 GET www.jyhuojia.cn/?channelCode=201&cl_id=a616fghgxxsc8d56&app_id=com.yicong.ants&uuid=c84119c935e5f6b732fddd2180d03ed9dfd26daf0086e3fbba4ec4c25a7aaf08&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjBiOGM3MTNlMDVhMTY1ZmU4M2FiZTk3MjJhZDEwMDM0In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwYjhjNzEzZTA1YTE2NWZlODNhYmU5NzIyYWQxMDAzNCIsImlhdCI6MTYzNTIwNTA0OCwiZXhwIjoxNjQyOTgxMDQ4LCJ1aWQiOjEzOTA0OTkwLCJtb2JpbGUiOiIxMzk0OTYzMzk3NyJ9.xTghTxi7hRBYzLq8bn5qFDkCf8Fk91mqhVDWRuqu1dw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T07:42:01+08:00 ] 223.91.212.84 GET www.jyhuojia.cn/?channelCode=201&cl_id=a616fghgxxsc8d56&app_id=com.yicong.ants&uuid=c84119c935e5f6b732fddd2180d03ed9dfd26daf0086e3fbba4ec4c25a7aaf08&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjBiOGM3MTNlMDVhMTY1ZmU4M2FiZTk3MjJhZDEwMDM0In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwYjhjNzEzZTA1YTE2NWZlODNhYmU5NzIyYWQxMDAzNCIsImlhdCI6MTYzNTIwNTA0OCwiZXhwIjoxNjQyOTgxMDQ4LCJ1aWQiOjEzOTA0OTkwLCJtb2JpbGUiOiIxMzk0OTYzMzk3NyJ9.xTghTxi7hRBYzLq8bn5qFDkCf8Fk91mqhVDWRuqu1dw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T07:42:01+08:00 ] 223.91.212.84 GET www.jyhuojia.cn/?channelCode=201&cl_id=a616fghgxxsc8d56&app_id=com.yicong.ants&uuid=c84119c935e5f6b732fddd2180d03ed9dfd26daf0086e3fbba4ec4c25a7aaf08&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjBiOGM3MTNlMDVhMTY1ZmU4M2FiZTk3MjJhZDEwMDM0In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwYjhjNzEzZTA1YTE2NWZlODNhYmU5NzIyYWQxMDAzNCIsImlhdCI6MTYzNTIwNTA0OCwiZXhwIjoxNjQyOTgxMDQ4LCJ1aWQiOjEzOTA0OTkwLCJtb2JpbGUiOiIxMzk0OTYzMzk3NyJ9.xTghTxi7hRBYzLq8bn5qFDkCf8Fk91mqhVDWRuqu1dw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:15:26+08:00 ] 39.155.53.133 GET www.jyhuojia.cn/?channelCode=201&cl_id=cbb37ghgxwfqqfea&app_id=com.yicong.ants&uuid=fed8ffbf-cfff-919d-ffff-bffffafde754&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6Ijk3YjM1ZGY1ODFiMzkyMjQ5YWU1OTZiNzViZWNkZGNhIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI5N2IzNWRmNTgxYjM5MjI0OWFlNTk2Yjc1YmVjZGRjYSIsImlhdCI6MTYzNjAwMzg1NCwiZXhwIjoxNjQzNzc5ODU0LCJ1aWQiOjE0MDIyOTYzLCJtb2JpbGUiOiIxNTIwNDg4NzYwOSJ9.Dbt0ipoShcPO-PP-4R-gzDVt6wSyHRjuRWHMB8zdI8A
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:15:26+08:00 ] 39.155.53.133 GET www.jyhuojia.cn/?channelCode=201&cl_id=cbb37ghgxwfqqfea&app_id=com.yicong.ants&uuid=fed8ffbf-cfff-919d-ffff-bffffafde754&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6Ijk3YjM1ZGY1ODFiMzkyMjQ5YWU1OTZiNzViZWNkZGNhIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI5N2IzNWRmNTgxYjM5MjI0OWFlNTk2Yjc1YmVjZGRjYSIsImlhdCI6MTYzNjAwMzg1NCwiZXhwIjoxNjQzNzc5ODU0LCJ1aWQiOjE0MDIyOTYzLCJtb2JpbGUiOiIxNTIwNDg4NzYwOSJ9.Dbt0ipoShcPO-PP-4R-gzDVt6wSyHRjuRWHMB8zdI8A
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:15:26+08:00 ] 39.155.53.133 GET www.jyhuojia.cn/?channelCode=201&cl_id=cbb37ghgxwfqqfea&app_id=com.yicong.ants&uuid=fed8ffbf-cfff-919d-ffff-bffffafde754&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6Ijk3YjM1ZGY1ODFiMzkyMjQ5YWU1OTZiNzViZWNkZGNhIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI5N2IzNWRmNTgxYjM5MjI0OWFlNTk2Yjc1YmVjZGRjYSIsImlhdCI6MTYzNjAwMzg1NCwiZXhwIjoxNjQzNzc5ODU0LCJ1aWQiOjE0MDIyOTYzLCJtb2JpbGUiOiIxNTIwNDg4NzYwOSJ9.Dbt0ipoShcPO-PP-4R-gzDVt6wSyHRjuRWHMB8zdI8A
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:15:26+08:00 ] 39.155.53.133 GET www.jyhuojia.cn/?channelCode=201&cl_id=cbb37ghgxwfqqfea&app_id=com.yicong.ants&uuid=fed8ffbf-cfff-919d-ffff-bffffafde754&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6Ijk3YjM1ZGY1ODFiMzkyMjQ5YWU1OTZiNzViZWNkZGNhIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI5N2IzNWRmNTgxYjM5MjI0OWFlNTk2Yjc1YmVjZGRjYSIsImlhdCI6MTYzNjAwMzg1NCwiZXhwIjoxNjQzNzc5ODU0LCJ1aWQiOjE0MDIyOTYzLCJtb2JpbGUiOiIxNTIwNDg4NzYwOSJ9.Dbt0ipoShcPO-PP-4R-gzDVt6wSyHRjuRWHMB8zdI8A
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:20+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:21+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:22+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:23+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:27+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:28+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:29+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:30+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:31+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:31+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:32+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:36:33+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:53+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:54+08:00 ] 152.32.216.214 POST meetshawaii.net/api/user/mobilelogin
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:54+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:55+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:55+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:55+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:56+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:56+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:56+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:57+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:57+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:57+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:57+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:57+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:57+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:57+08:00 ] 152.32.216.214 GET meetshawaii.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T08:37:58+08:00 ] 152.32.216.214 GET meetshawaii.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:03+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/?channelCode=201&cl_id=16581ghgxqq9zfce
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:03+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/?channelCode=201&cl_id=16581ghgxqq9zfce
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:03+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/?channelCode=201&cl_id=16581ghgxqq9zfce
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:04+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/?channelCode=201&cl_id=16581ghgxqq9zfce
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:06+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:06+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:06+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:06+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:07+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:07+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:07+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:18:08+08:00 ] 14.220.120.70 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:55:55+08:00 ] 1.182.113.200 GET www.jyhuojia.cn/?channelCode=201&cl_id=fd0eagh178r6j680&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:55:55+08:00 ] 1.182.113.200 GET www.jyhuojia.cn/?channelCode=201&cl_id=fd0eagh178r6j680&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:55:55+08:00 ] 1.182.113.200 GET www.jyhuojia.cn/?channelCode=201&cl_id=fd0eagh178r6j680&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:55:55+08:00 ] 1.182.113.200 GET www.jyhuojia.cn/?channelCode=201&cl_id=fd0eagh178r6j680&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:56:16+08:00 ] 1.181.174.236 GET www.jyhuojia.cn/?channelCode=201&cl_id=2b2c4gh178rdvd29&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:56:16+08:00 ] 1.181.174.236 GET www.jyhuojia.cn/?channelCode=201&cl_id=2b2c4gh178rdvd29&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:56:16+08:00 ] 1.181.174.236 GET www.jyhuojia.cn/?channelCode=201&cl_id=2b2c4gh178rdvd29&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T10:56:16+08:00 ] 1.181.174.236 GET www.jyhuojia.cn/?channelCode=201&cl_id=2b2c4gh178rdvd29&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:06:49+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=cc35fgh17524k0f8
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:06:49+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=cc35fgh17524k0f8
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:06:49+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=cc35fgh17524k0f8
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:06:49+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=cc35fgh17524k0f8
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:06:51+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:06:51+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:06:51+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:06:51+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:08+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:08+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:08+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:09+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:09+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:09+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:09+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:09+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:10+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:10+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:10+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:10+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:10+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:10+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:10+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T11:07:10+08:00 ] 113.244.230.98 GET www.jyhuojia.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T12:07:12+08:00 ] 118.254.125.36 GET www.jyhuojia.cn/?channelCode=201&cl_id=e7215gh17g5g5603
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T12:07:12+08:00 ] 118.254.125.36 GET www.jyhuojia.cn/?channelCode=201&cl_id=e7215gh17g5g5603
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T12:07:12+08:00 ] 118.254.125.36 GET www.jyhuojia.cn/?channelCode=201&cl_id=e7215gh17g5g5603
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-06T12:07:12+08:00 ] 118.254.125.36 GET www.jyhuojia.cn/?channelCode=201&cl_id=e7215gh17g5g5603
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused

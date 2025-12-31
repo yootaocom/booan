@@ -1,0 +1,126 @@
+---------------------------------------------------------------
+[ 2021-11-17T00:38:27+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:38:27+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:38:28+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:38:28+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:17+08:00 ] 152.32.134.156 POST www.bdfwd.net/api/user/mobilelogin
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:17+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:17+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:18+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:18+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:18+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:18+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:19+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:19+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:20+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:21+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:22+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T00:40:22+08:00 ] 152.32.134.156 GET www.bdfwd.net/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:26:57+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:26:58+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:26:58+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:26:58+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:26:58+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:26:58+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:26:59+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:26:59+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:27:03+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:27:04+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:27:04+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:27:05+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:06+08:00 ] 101.36.117.135 POST www.xiaoo.vip/api/user/mobilelogin
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:06+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:06+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:06+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:07+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:07+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:07+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:08+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:09+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:09+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:09+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:10+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-17T20:28:11+08:00 ] 101.36.117.135 GET www.xiaoo.vip/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused

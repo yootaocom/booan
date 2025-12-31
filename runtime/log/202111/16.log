@@ -1,0 +1,3 @@
+---------------------------------------------------------------
+[ 2021-11-16T07:47:10+08:00 ] 0.0.0.0 GET www.hdsem.net/?channelCode=201&cl_id=37cdaghk2q5fyaad&app_id=com.yicong.ants&uuid=2c825701-befc-4675-b3ba-a507e8c7cdbc&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjA4YTU1YTM0OGMxNzA2MGJkOGFmZWMxNmEyN2U1NTc5In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIwOGE1NWEzNDhjMTcwNjBiZDhhZmVjMTZhMjdlNTU3OSIsImlhdCI6MTYzNTkzODA4OSwiZXhwIjoxNjQzNzE0MDg5LCJ1aWQiOjE0MTMyMDEzLCJtb2JpbGUiOiIxMzE0MjQxMzQ2OCJ9.RCceHuMIHiM_xuaQR8vJdrGttJa4Edb23agPsypIFcY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused

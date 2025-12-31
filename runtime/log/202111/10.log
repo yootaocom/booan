@@ -1,0 +1,72 @@
+---------------------------------------------------------------
+[ 2021-11-10T07:46:12+08:00 ] 1.29.81.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=4ee4dghgm37y9eee&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T07:46:12+08:00 ] 1.29.81.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=4ee4dghgm37y9eee&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T07:46:12+08:00 ] 1.29.81.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=4ee4dghgm37y9eee&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T07:46:12+08:00 ] 1.29.81.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=4ee4dghgm37y9eee&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T14:44:57+08:00 ] 1.24.253.140 GET www.jyhuojia.cn/?channelCode=201&cl_id=ad745ghlpdvhqde8&app_id=com.yicong.ants&uuid=dfd7ebef-ffc7-24dd-fd7d-fd7fff63a944&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjgzMjM5YzJlY2I4MDQ1NWU4MjYxMDRlYzQ4YWJmNTdlIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI4MzIzOWMyZWNiODA0NTVlODI2MTA0ZWM0OGFiZjU3ZSIsImlhdCI6MTYzNjUyNjQ4MywiZXhwIjoxNjQ0MzAyNDgzLCJ1aWQiOjEzOTA4MDczLCJtb2JpbGUiOiIxNTI0OTU1ODQ0NCJ9.-xbmKnPXUU-LT4j8P9nh3kix_xH3lif0j5fJoOvJc7k
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T14:44:57+08:00 ] 1.24.253.140 GET www.jyhuojia.cn/?channelCode=201&cl_id=ad745ghlpdvhqde8&app_id=com.yicong.ants&uuid=dfd7ebef-ffc7-24dd-fd7d-fd7fff63a944&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjgzMjM5YzJlY2I4MDQ1NWU4MjYxMDRlYzQ4YWJmNTdlIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI4MzIzOWMyZWNiODA0NTVlODI2MTA0ZWM0OGFiZjU3ZSIsImlhdCI6MTYzNjUyNjQ4MywiZXhwIjoxNjQ0MzAyNDgzLCJ1aWQiOjEzOTA4MDczLCJtb2JpbGUiOiIxNTI0OTU1ODQ0NCJ9.-xbmKnPXUU-LT4j8P9nh3kix_xH3lif0j5fJoOvJc7k
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T14:44:57+08:00 ] 1.24.253.140 GET www.jyhuojia.cn/?channelCode=201&cl_id=ad745ghlpdvhqde8&app_id=com.yicong.ants&uuid=dfd7ebef-ffc7-24dd-fd7d-fd7fff63a944&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjgzMjM5YzJlY2I4MDQ1NWU4MjYxMDRlYzQ4YWJmNTdlIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI4MzIzOWMyZWNiODA0NTVlODI2MTA0ZWM0OGFiZjU3ZSIsImlhdCI6MTYzNjUyNjQ4MywiZXhwIjoxNjQ0MzAyNDgzLCJ1aWQiOjEzOTA4MDczLCJtb2JpbGUiOiIxNTI0OTU1ODQ0NCJ9.-xbmKnPXUU-LT4j8P9nh3kix_xH3lif0j5fJoOvJc7k
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T14:44:57+08:00 ] 1.24.253.140 GET www.jyhuojia.cn/?channelCode=201&cl_id=ad745ghlpdvhqde8&app_id=com.yicong.ants&uuid=dfd7ebef-ffc7-24dd-fd7d-fd7fff63a944&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjgzMjM5YzJlY2I4MDQ1NWU4MjYxMDRlYzQ4YWJmNTdlIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI4MzIzOWMyZWNiODA0NTVlODI2MTA0ZWM0OGFiZjU3ZSIsImlhdCI6MTYzNjUyNjQ4MywiZXhwIjoxNjQ0MzAyNDgzLCJ1aWQiOjEzOTA4MDczLCJtb2JpbGUiOiIxNTI0OTU1ODQ0NCJ9.-xbmKnPXUU-LT4j8P9nh3kix_xH3lif0j5fJoOvJc7k
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T17:12:29+08:00 ] 42.228.9.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=8ee1cghlpqng694b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T17:12:29+08:00 ] 42.228.9.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=8ee1cghlpqng694b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T17:12:29+08:00 ] 42.228.9.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=8ee1cghlpqng694b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T17:12:29+08:00 ] 42.228.9.98 GET www.jyhuojia.cn/?channelCode=201&cl_id=8ee1cghlpqng694b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:31:36+08:00 ] 124.67.12.155 GET www.jyhuojia.cn/?channelCode=201&cl_id=7d0c0ghu3gmx9c21&app_id=com.yicong.ants&uuid=66fb57bc-ffff-a878-7efb-fa6fbf6df173&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjdmNzNmNzgwZDNiMmY4OWY3MjcyY2Y5MDRiYjQ2MDNjIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI3ZjczZjc4MGQzYjJmODlmNzI3MmNmOTA0YmI0NjAzYyIsImlhdCI6MTYzNjU0MDIzNSwiZXhwIjoxNjQ0MzE2MjM1LCJ1aWQiOjEzOTkxOTMyLCJtb2JpbGUiOiIxNzY0NzQyNjA4MCJ9.QwE3-XrohWRQ8rjNDgjupe3eeOZnt7hB5lcRm6H8kZQ
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:31:36+08:00 ] 124.67.12.155 GET www.jyhuojia.cn/?channelCode=201&cl_id=7d0c0ghu3gmx9c21&app_id=com.yicong.ants&uuid=66fb57bc-ffff-a878-7efb-fa6fbf6df173&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjdmNzNmNzgwZDNiMmY4OWY3MjcyY2Y5MDRiYjQ2MDNjIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI3ZjczZjc4MGQzYjJmODlmNzI3MmNmOTA0YmI0NjAzYyIsImlhdCI6MTYzNjU0MDIzNSwiZXhwIjoxNjQ0MzE2MjM1LCJ1aWQiOjEzOTkxOTMyLCJtb2JpbGUiOiIxNzY0NzQyNjA4MCJ9.QwE3-XrohWRQ8rjNDgjupe3eeOZnt7hB5lcRm6H8kZQ
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:31:36+08:00 ] 124.67.12.155 GET www.jyhuojia.cn/?channelCode=201&cl_id=7d0c0ghu3gmx9c21&app_id=com.yicong.ants&uuid=66fb57bc-ffff-a878-7efb-fa6fbf6df173&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjdmNzNmNzgwZDNiMmY4OWY3MjcyY2Y5MDRiYjQ2MDNjIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI3ZjczZjc4MGQzYjJmODlmNzI3MmNmOTA0YmI0NjAzYyIsImlhdCI6MTYzNjU0MDIzNSwiZXhwIjoxNjQ0MzE2MjM1LCJ1aWQiOjEzOTkxOTMyLCJtb2JpbGUiOiIxNzY0NzQyNjA4MCJ9.QwE3-XrohWRQ8rjNDgjupe3eeOZnt7hB5lcRm6H8kZQ
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:31:36+08:00 ] 124.67.12.155 GET www.jyhuojia.cn/?channelCode=201&cl_id=7d0c0ghu3gmx9c21&app_id=com.yicong.ants&uuid=66fb57bc-ffff-a878-7efb-fa6fbf6df173&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjdmNzNmNzgwZDNiMmY4OWY3MjcyY2Y5MDRiYjQ2MDNjIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI3ZjczZjc4MGQzYjJmODlmNzI3MmNmOTA0YmI0NjAzYyIsImlhdCI6MTYzNjU0MDIzNSwiZXhwIjoxNjQ0MzE2MjM1LCJ1aWQiOjEzOTkxOTMyLCJtb2JpbGUiOiIxNzY0NzQyNjA4MCJ9.QwE3-XrohWRQ8rjNDgjupe3eeOZnt7hB5lcRm6H8kZQ
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:53:53+08:00 ] 1.198.214.253 GET www.jyhuojia.cn/?channelCode=201&cl_id=61d1fghu3irgh925
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:53:53+08:00 ] 1.198.214.253 GET www.jyhuojia.cn/?channelCode=201&cl_id=61d1fghu3irgh925
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:53:54+08:00 ] 1.198.214.253 GET www.jyhuojia.cn/?channelCode=201&cl_id=61d1fghu3irgh925
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:53:54+08:00 ] 1.198.214.253 GET www.jyhuojia.cn/?channelCode=201&cl_id=61d1fghu3irgh925
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:53:54+08:00 ] 1.198.214.253 GET www.jyhuojia.cn/?channelCode=201&cl_id=61d1fghu3irgh925
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:53:54+08:00 ] 1.198.214.253 GET www.jyhuojia.cn/?channelCode=201&cl_id=61d1fghu3irgh925
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:53:54+08:00 ] 1.198.214.253 GET www.jyhuojia.cn/?channelCode=201&cl_id=61d1fghu3irgh925
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-10T18:53:54+08:00 ] 1.198.214.253 GET www.jyhuojia.cn/?channelCode=201&cl_id=61d1fghu3irgh925
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused

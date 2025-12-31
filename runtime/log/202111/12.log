@@ -1,0 +1,75 @@
+---------------------------------------------------------------
+[ 2021-11-12T01:03:17+08:00 ] 47.94.147.173 POST 139.224.253.2:80/%25%7b(%23dm%3d%40ognl.OgnlContext%40DEFAULT_MEMBER_ACCESS).(%23_memberAccess%3f(%23_memberAccess%3d%23dm)%3a((%23container%3d%23context%5b%27com.opensymphony.xwork2.ActionContext.container%27%5d).(%23ognlUtil%3d%23container.getInstance(%40com.opensymphony.xwork2.ognl.OgnlUtil%40class)).(%23ognlUtil.getExcludedPackageNames().clear()).(%23ognlUtil.getExcludedClasses().clear()).(%23context.setMemberAccess(%23dm)))).(%23res%3d%40org.apache.struts2.ServletActionContext%40getResponse()).(%23res.addHeader(%27eresult%27%2c%27struts2_security_check%27))%7d/
+[ error ] [8]Undefined index: query
+---------------------------------------------------------------
+[ 2021-11-12T05:23:21+08:00 ] 220.195.75.61 GET www.jyhuojia.cn/?channelCode=201&cl_id=44bbfgh4kduq562c&app_id=com.yicong.ants&uuid=73b5251d-fc36-42c1-ad44-fa9ed21241f2&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjU3MTJiZDRjYmNkMGNjMTMzMGUwZTVkZWM5NjBjMDJiIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI1NzEyYmQ0Y2JjZDBjYzEzMzBlMGU1ZGVjOTYwYzAyYiIsImlhdCI6MTYzNTM0MjI5NSwiZXhwIjoxNjQzMTE4Mjk1LCJ1aWQiOjEzOTUwOTA0LCJtb2JpbGUiOiIxODY0Nzc5Mjc2OCJ9.SPmVJU5RSUjc3txLgaZq9T7lQl6WRV43WZaYEPAlFZY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T05:23:21+08:00 ] 220.195.75.61 GET www.jyhuojia.cn/?channelCode=201&cl_id=44bbfgh4kduq562c&app_id=com.yicong.ants&uuid=73b5251d-fc36-42c1-ad44-fa9ed21241f2&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjU3MTJiZDRjYmNkMGNjMTMzMGUwZTVkZWM5NjBjMDJiIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI1NzEyYmQ0Y2JjZDBjYzEzMzBlMGU1ZGVjOTYwYzAyYiIsImlhdCI6MTYzNTM0MjI5NSwiZXhwIjoxNjQzMTE4Mjk1LCJ1aWQiOjEzOTUwOTA0LCJtb2JpbGUiOiIxODY0Nzc5Mjc2OCJ9.SPmVJU5RSUjc3txLgaZq9T7lQl6WRV43WZaYEPAlFZY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T05:23:21+08:00 ] 220.195.75.61 GET www.jyhuojia.cn/?channelCode=201&cl_id=44bbfgh4kduq562c&app_id=com.yicong.ants&uuid=73b5251d-fc36-42c1-ad44-fa9ed21241f2&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjU3MTJiZDRjYmNkMGNjMTMzMGUwZTVkZWM5NjBjMDJiIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI1NzEyYmQ0Y2JjZDBjYzEzMzBlMGU1ZGVjOTYwYzAyYiIsImlhdCI6MTYzNTM0MjI5NSwiZXhwIjoxNjQzMTE4Mjk1LCJ1aWQiOjEzOTUwOTA0LCJtb2JpbGUiOiIxODY0Nzc5Mjc2OCJ9.SPmVJU5RSUjc3txLgaZq9T7lQl6WRV43WZaYEPAlFZY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T05:23:21+08:00 ] 220.195.75.61 GET www.jyhuojia.cn/?channelCode=201&cl_id=44bbfgh4kduq562c&app_id=com.yicong.ants&uuid=73b5251d-fc36-42c1-ad44-fa9ed21241f2&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjU3MTJiZDRjYmNkMGNjMTMzMGUwZTVkZWM5NjBjMDJiIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI1NzEyYmQ0Y2JjZDBjYzEzMzBlMGU1ZGVjOTYwYzAyYiIsImlhdCI6MTYzNTM0MjI5NSwiZXhwIjoxNjQzMTE4Mjk1LCJ1aWQiOjEzOTUwOTA0LCJtb2JpbGUiOiIxODY0Nzc5Mjc2OCJ9.SPmVJU5RSUjc3txLgaZq9T7lQl6WRV43WZaYEPAlFZY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T11:18:36+08:00 ] 106.35.22.239 GET www.jyhuojia.cn/?channelCode=201&cl_id=5e156ghtwuooj80b&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T11:18:36+08:00 ] 106.35.22.239 GET www.jyhuojia.cn/?channelCode=201&cl_id=5e156ghtwuooj80b&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T11:18:36+08:00 ] 106.35.22.239 GET www.jyhuojia.cn/?channelCode=201&cl_id=5e156ghtwuooj80b&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T11:18:36+08:00 ] 106.35.22.239 GET www.jyhuojia.cn/?channelCode=201&cl_id=5e156ghtwuooj80b&app_id=com.yicong.ants&uuid=060ddbe7-de44-4f81-a60d-a9b6b1848f06&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIn0.eyJpc3MiOiJodHRwOlwvXC9hcGkueWN0b3VyaXNtLmNvbSIsImF1ZCI6ImNsaWVudCIsImp0aSI6IjNjMDZiNzc3NmE4OTcyMjgyOWNmZDdmYzU1MzkwODAwIiwiaWF0IjoxNjM1OTkyMDMxLCJleHAiOjE2NDM3NjgwMzEsInVpZCI6MTQxNDMxNDAsIm1vYmlsZSI6IjEzNjk0NzU2MTU1In0.hLXjTbC5Z5Nxd1U9jYNh9vLsgpZXeCvEI9xhK02oH2Y
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T11:57:28+08:00 ] 60.10.116.40 GET www.lslxzs.cn/install.php/999732%40
+[ error ] [0]Method app\admin\command\Install::999732@() does not exist
+---------------------------------------------------------------
+[ 2021-11-12T11:57:28+08:00 ] 60.10.116.40 GET www.lslxzs.cn/install.php/999732%40
+[ error ] [0]Method app\admin\command\Install::999732@() does not exist
+---------------------------------------------------------------
+[ 2021-11-12T11:57:28+08:00 ] 60.10.116.40 GET www.lslxzs.cn/install.php/999732%40
+[ error ] [0]Method app\admin\command\Install::999732@() does not exist
+---------------------------------------------------------------
+[ 2021-11-12T11:57:28+08:00 ] 60.10.116.40 GET www.lslxzs.cn/install.php?id=JJJ0QQQ&action=JJJ1QQQ&page=JJJ2QQQ&name=JJJ3QQQ&f=JJJ4QQQ&url=JJJ5QQQ&email=JJJ6QQQ&type=JJJ7QQQ&file=JJJ8QQQ&title=JJJ9QQQ&code=JJJ10QQQ&q=JJJ11QQQ&user=JJJ12QQQ&token=JJJ13QQQ&t=JJJ14QQQ&c=JJJ15QQQ&data=JJJ16QQQ&mode=JJJ17QQQ&order=JJJ18QQQ&lang=JJJ19QQQ&p=JJJ20QQQ&key=JJJ21QQQ&status=JJJ22QQQ&start=JJJ23QQQ&charset=JJJ24QQQ&s=JJJ25QQQ&post=JJJ26QQQ&login=JJJ27QQQ&search=JJJ28QQQ&content=JJJ29QQQ&comment=JJJ30QQQ&step=JJJ31QQQ&ajax=JJJ32QQQ&debug=JJJ33QQQ&state=JJJ34QQQ&query=JJJ35QQQ&error=JJJ36QQQ&save=JJJ37QQQ&sort=JJJ38QQQ&format=JJJ39QQQ&tab=JJJ40QQQ&offset=JJJ41QQQ&edit=JJJ42QQQ&preview=JJJ43QQQ&filter=JJJ44QQQ&from=JJJ45QQQ&view=JJJ46QQQ&a=JJJ47QQQ&limit=JJJ48QQQ&do=JJJ49QQQ&plugin=JJJ50QQQ&theme=JJJ51QQQ&text=JJJ52QQQ&test=JJJ53QQQ&path=JJJ54QQQ&pass=JJJ55QQQ&dir=JJJ56QQQ&show=JJJ57QQQ&h=JJJ58QQQ&value=JJJ59QQQ&filename=JJJ60QQQ&redirect=JJJ61QQQ&year=JJJ62QQQ&group=JJJ63QQQ&template=JJJ64QQQ&subject=JJJ65QQQ&m=JJJ66QQQ&u=JJJ67QQQ&dest=JJJ68QQQ&uri=JJJ69QQQ&continue=JJJ70QQQ&window=JJJ71QQQ&next=JJJ72QQQ&reference=JJJ73QQQ&site=JJJ74QQQ&&uP2l2=JJJ75QQQ&
+[ error ] [0]Method app\admin\command\Install::JJJ25QQQ() does not exist
+---------------------------------------------------------------
+[ 2021-11-12T11:57:31+08:00 ] 60.10.116.40 GET www.lslxzs.cn/install.php%2f
+[ error ] [0]Method app\admin\command\Install::index.php() does not exist
+---------------------------------------------------------------
+[ 2021-11-12T11:57:31+08:00 ] 60.10.116.40 GET www.lslxzs.cn/install.php%2f
+[ error ] [0]Method app\admin\command\Install::index.php() does not exist
+---------------------------------------------------------------
+[ 2021-11-12T11:57:31+08:00 ] 60.10.116.40 GET www.lslxzs.cn/install.php%2f
+[ error ] [0]Method app\admin\command\Install::index.php() does not exist
+---------------------------------------------------------------
+[ 2021-11-12T11:57:38+08:00 ] 60.10.116.40 GET www.lslxzs.cn/%3F
+[ error ] [8]未定义数组索引: path
+---------------------------------------------------------------
+[ 2021-11-12T11:57:38+08:00 ] 60.10.116.40 GET www.lslxzs.cn/%3F
+[ error ] [8]未定义数组索引: path
+---------------------------------------------------------------
+[ 2021-11-12T11:57:38+08:00 ] 60.10.116.40 GET www.lslxzs.cn/%3F
+[ error ] [8]未定义数组索引: path
+---------------------------------------------------------------
+[ 2021-11-12T11:57:38+08:00 ] 60.10.116.40 GET www.lslxzs.cn/%3F
+[ error ] [8]未定义数组索引: path
+---------------------------------------------------------------
+[ 2021-11-12T11:57:38+08:00 ] 60.10.116.40 GET www.lslxzs.cn/%3F
+[ error ] [8]未定义数组索引: path
+---------------------------------------------------------------
+[ 2021-11-12T19:02:48+08:00 ] 219.128.235.180 GET www.jyhuojia.cn/?channelCode=201&cl_id=a5aacghwfscsyf0b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T19:02:48+08:00 ] 219.128.235.180 GET www.jyhuojia.cn/?channelCode=201&cl_id=a5aacghwfscsyf0b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T19:02:48+08:00 ] 219.128.235.180 GET www.jyhuojia.cn/?channelCode=201&cl_id=a5aacghwfscsyf0b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-12T19:02:49+08:00 ] 219.128.235.180 GET www.jyhuojia.cn/?channelCode=201&cl_id=a5aacghwfscsyf0b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused

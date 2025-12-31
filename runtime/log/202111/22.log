@@ -1,0 +1,39 @@
+---------------------------------------------------------------
+[ 2021-11-22T18:56:26+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:27+08:00 ] 152.32.186.238 POST www.qqwka.cn/api/user/mobilelogin
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:27+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:27+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:27+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:28+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:28+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:29+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:30+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:30+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:30+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:31+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-22T18:56:32+08:00 ] 152.32.186.238 GET www.qqwka.cn/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused

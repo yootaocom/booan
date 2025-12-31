@@ -1,0 +1,144 @@
+---------------------------------------------------------------
+[ 2021-12-05T04:05:45+08:00 ] 175.13.16.144 GET www.snztc.cn/?channelCode=201&cl_id=91acc8pcitlfv976
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T04:05:45+08:00 ] 175.13.16.144 GET www.snztc.cn/?channelCode=201&cl_id=91acc8pcitlfv976
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T04:05:45+08:00 ] 175.13.16.144 GET www.snztc.cn/?channelCode=201&cl_id=91acc8pcitlfv976
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T04:05:47+08:00 ] 175.13.16.144 GET www.snztc.cn/?channelCode=201&cl_id=91acc8pcitlfv976
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T08:03:41+08:00 ] 1.25.111.139 GET www.snztc.cn/?channelCode=201&cl_id=f52eb8p52e2du778&app_id=com.yicong.ants&uuid=267bf7f9-5def-9a8e-f7f8-f1e77abe784e&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjUxOWIwZTYzM2RlNmJmN2I0MzI1NDg1ZGRhMmIzNTYzIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI1MTliMGU2MzNkZTZiZjdiNDMyNTQ4NWRkYTJiMzU2MyIsImlhdCI6MTYzNzc3MzkxMywiZXhwIjoxNjQ1NTQ5OTEzLCJ1aWQiOjE0ODI4ODYxLCJtb2JpbGUiOiIxODU0NzE0NjExMyJ9.jqCL8unxEIyG0ongcUgNWG9b3AmIFdwkau70H82iA9A
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T08:03:41+08:00 ] 1.25.111.139 GET www.snztc.cn/?channelCode=201&cl_id=f52eb8p52e2du778&app_id=com.yicong.ants&uuid=267bf7f9-5def-9a8e-f7f8-f1e77abe784e&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjUxOWIwZTYzM2RlNmJmN2I0MzI1NDg1ZGRhMmIzNTYzIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI1MTliMGU2MzNkZTZiZjdiNDMyNTQ4NWRkYTJiMzU2MyIsImlhdCI6MTYzNzc3MzkxMywiZXhwIjoxNjQ1NTQ5OTEzLCJ1aWQiOjE0ODI4ODYxLCJtb2JpbGUiOiIxODU0NzE0NjExMyJ9.jqCL8unxEIyG0ongcUgNWG9b3AmIFdwkau70H82iA9A
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T08:03:41+08:00 ] 1.25.111.139 GET www.snztc.cn/?channelCode=201&cl_id=f52eb8p52e2du778&app_id=com.yicong.ants&uuid=267bf7f9-5def-9a8e-f7f8-f1e77abe784e&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjUxOWIwZTYzM2RlNmJmN2I0MzI1NDg1ZGRhMmIzNTYzIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI1MTliMGU2MzNkZTZiZjdiNDMyNTQ4NWRkYTJiMzU2MyIsImlhdCI6MTYzNzc3MzkxMywiZXhwIjoxNjQ1NTQ5OTEzLCJ1aWQiOjE0ODI4ODYxLCJtb2JpbGUiOiIxODU0NzE0NjExMyJ9.jqCL8unxEIyG0ongcUgNWG9b3AmIFdwkau70H82iA9A
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T08:03:41+08:00 ] 1.25.111.139 GET www.snztc.cn/?channelCode=201&cl_id=f52eb8p52e2du778&app_id=com.yicong.ants&uuid=267bf7f9-5def-9a8e-f7f8-f1e77abe784e&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjUxOWIwZTYzM2RlNmJmN2I0MzI1NDg1ZGRhMmIzNTYzIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI1MTliMGU2MzNkZTZiZjdiNDMyNTQ4NWRkYTJiMzU2MyIsImlhdCI6MTYzNzc3MzkxMywiZXhwIjoxNjQ1NTQ5OTEzLCJ1aWQiOjE0ODI4ODYxLCJtb2JpbGUiOiIxODU0NzE0NjExMyJ9.jqCL8unxEIyG0ongcUgNWG9b3AmIFdwkau70H82iA9A
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T08:04:45+08:00 ] 58.18.122.12 GET www.snztc.cn/?channelCode=201&cl_id=f85e88p521n1za71&app_id=com.yicong.ants&uuid=2c394e33-c7cf-496e-99e1-c3cb94f0dd8b&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImUyOWQ1NjJiYWNhMjkwNzM1ZGQxMDIxMWIyNTlhYjQyIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJlMjlkNTYyYmFjYTI5MDczNWRkMTAyMTFiMjU5YWI0MiIsImlhdCI6MTYzODE2MDc1MCwiZXhwIjoxNjQ1OTM2NzUwLCJ1aWQiOjE1MDA0NDIyLCJtb2JpbGUiOiIxNTI0NzkzODg4MiJ9.Jt0YcB7-qGJbTS_NzAoCcx7VFWrLMiaq4s065q3Dtys
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T08:04:45+08:00 ] 58.18.122.12 GET www.snztc.cn/?channelCode=201&cl_id=f85e88p521n1za71&app_id=com.yicong.ants&uuid=2c394e33-c7cf-496e-99e1-c3cb94f0dd8b&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImUyOWQ1NjJiYWNhMjkwNzM1ZGQxMDIxMWIyNTlhYjQyIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJlMjlkNTYyYmFjYTI5MDczNWRkMTAyMTFiMjU5YWI0MiIsImlhdCI6MTYzODE2MDc1MCwiZXhwIjoxNjQ1OTM2NzUwLCJ1aWQiOjE1MDA0NDIyLCJtb2JpbGUiOiIxNTI0NzkzODg4MiJ9.Jt0YcB7-qGJbTS_NzAoCcx7VFWrLMiaq4s065q3Dtys
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T08:04:45+08:00 ] 58.18.122.12 GET www.snztc.cn/?channelCode=201&cl_id=f85e88p521n1za71&app_id=com.yicong.ants&uuid=2c394e33-c7cf-496e-99e1-c3cb94f0dd8b&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImUyOWQ1NjJiYWNhMjkwNzM1ZGQxMDIxMWIyNTlhYjQyIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJlMjlkNTYyYmFjYTI5MDczNWRkMTAyMTFiMjU5YWI0MiIsImlhdCI6MTYzODE2MDc1MCwiZXhwIjoxNjQ1OTM2NzUwLCJ1aWQiOjE1MDA0NDIyLCJtb2JpbGUiOiIxNTI0NzkzODg4MiJ9.Jt0YcB7-qGJbTS_NzAoCcx7VFWrLMiaq4s065q3Dtys
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T08:04:45+08:00 ] 58.18.122.12 GET www.snztc.cn/?channelCode=201&cl_id=f85e88p521n1za71&app_id=com.yicong.ants&uuid=2c394e33-c7cf-496e-99e1-c3cb94f0dd8b&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImUyOWQ1NjJiYWNhMjkwNzM1ZGQxMDIxMWIyNTlhYjQyIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJlMjlkNTYyYmFjYTI5MDczNWRkMTAyMTFiMjU5YWI0MiIsImlhdCI6MTYzODE2MDc1MCwiZXhwIjoxNjQ1OTM2NzUwLCJ1aWQiOjE1MDA0NDIyLCJtb2JpbGUiOiIxNTI0NzkzODg4MiJ9.Jt0YcB7-qGJbTS_NzAoCcx7VFWrLMiaq4s065q3Dtys
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T09:01:45+08:00 ] 112.195.83.221 GET www.snztc.cn/?channelCode=201&cl_id=702048p523v8rdd6&app_id=com.yicong.ants&uuid=32fed002b835f5367a600dc4ce533264aa7807edc7a5648ce36fb0c23e2f5253&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjQwNmI0YTA0YWVlNDU2ZWNlNmYxNDRmOTY5YjhiNzQ2In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI0MDZiNGEwNGFlZTQ1NmVjZTZmMTQ0Zjk2OWI4Yjc0NiIsImlhdCI6MTYzNzQ3NDA0NywiZXhwIjoxNjQ1MjUwMDQ3LCJ1aWQiOjE0NjQ3NDY3LCJtb2JpbGUiOiIxMzIxOTY2MDg4MiJ9.aqqcQdM7bZnFR1-cfcD_yXyThWY5Sh3Gb1biCyI1eeU
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T09:01:45+08:00 ] 112.195.83.221 GET www.snztc.cn/?channelCode=201&cl_id=702048p523v8rdd6&app_id=com.yicong.ants&uuid=32fed002b835f5367a600dc4ce533264aa7807edc7a5648ce36fb0c23e2f5253&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjQwNmI0YTA0YWVlNDU2ZWNlNmYxNDRmOTY5YjhiNzQ2In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI0MDZiNGEwNGFlZTQ1NmVjZTZmMTQ0Zjk2OWI4Yjc0NiIsImlhdCI6MTYzNzQ3NDA0NywiZXhwIjoxNjQ1MjUwMDQ3LCJ1aWQiOjE0NjQ3NDY3LCJtb2JpbGUiOiIxMzIxOTY2MDg4MiJ9.aqqcQdM7bZnFR1-cfcD_yXyThWY5Sh3Gb1biCyI1eeU
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T09:01:45+08:00 ] 112.195.83.221 GET www.snztc.cn/?channelCode=201&cl_id=702048p523v8rdd6&app_id=com.yicong.ants&uuid=32fed002b835f5367a600dc4ce533264aa7807edc7a5648ce36fb0c23e2f5253&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjQwNmI0YTA0YWVlNDU2ZWNlNmYxNDRmOTY5YjhiNzQ2In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI0MDZiNGEwNGFlZTQ1NmVjZTZmMTQ0Zjk2OWI4Yjc0NiIsImlhdCI6MTYzNzQ3NDA0NywiZXhwIjoxNjQ1MjUwMDQ3LCJ1aWQiOjE0NjQ3NDY3LCJtb2JpbGUiOiIxMzIxOTY2MDg4MiJ9.aqqcQdM7bZnFR1-cfcD_yXyThWY5Sh3Gb1biCyI1eeU
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T09:01:45+08:00 ] 112.195.83.221 GET www.snztc.cn/?channelCode=201&cl_id=702048p523v8rdd6&app_id=com.yicong.ants&uuid=32fed002b835f5367a600dc4ce533264aa7807edc7a5648ce36fb0c23e2f5253&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjQwNmI0YTA0YWVlNDU2ZWNlNmYxNDRmOTY5YjhiNzQ2In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI0MDZiNGEwNGFlZTQ1NmVjZTZmMTQ0Zjk2OWI4Yjc0NiIsImlhdCI6MTYzNzQ3NDA0NywiZXhwIjoxNjQ1MjUwMDQ3LCJ1aWQiOjE0NjQ3NDY3LCJtb2JpbGUiOiIxMzIxOTY2MDg4MiJ9.aqqcQdM7bZnFR1-cfcD_yXyThWY5Sh3Gb1biCyI1eeU
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T09:01:45+08:00 ] 112.195.83.221 GET www.snztc.cn/?channelCode=201&cl_id=702048p523v8rdd6&app_id=com.yicong.ants&uuid=32fed002b835f5367a600dc4ce533264aa7807edc7a5648ce36fb0c23e2f5253&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjQwNmI0YTA0YWVlNDU2ZWNlNmYxNDRmOTY5YjhiNzQ2In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI0MDZiNGEwNGFlZTQ1NmVjZTZmMTQ0Zjk2OWI4Yjc0NiIsImlhdCI6MTYzNzQ3NDA0NywiZXhwIjoxNjQ1MjUwMDQ3LCJ1aWQiOjE0NjQ3NDY3LCJtb2JpbGUiOiIxMzIxOTY2MDg4MiJ9.aqqcQdM7bZnFR1-cfcD_yXyThWY5Sh3Gb1biCyI1eeU
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T09:01:45+08:00 ] 112.195.83.221 GET www.snztc.cn/?channelCode=201&cl_id=702048p523v8rdd6&app_id=com.yicong.ants&uuid=32fed002b835f5367a600dc4ce533264aa7807edc7a5648ce36fb0c23e2f5253&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjQwNmI0YTA0YWVlNDU2ZWNlNmYxNDRmOTY5YjhiNzQ2In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI0MDZiNGEwNGFlZTQ1NmVjZTZmMTQ0Zjk2OWI4Yjc0NiIsImlhdCI6MTYzNzQ3NDA0NywiZXhwIjoxNjQ1MjUwMDQ3LCJ1aWQiOjE0NjQ3NDY3LCJtb2JpbGUiOiIxMzIxOTY2MDg4MiJ9.aqqcQdM7bZnFR1-cfcD_yXyThWY5Sh3Gb1biCyI1eeU
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T09:01:45+08:00 ] 112.195.83.221 GET www.snztc.cn/?channelCode=201&cl_id=702048p523v8rdd6&app_id=com.yicong.ants&uuid=32fed002b835f5367a600dc4ce533264aa7807edc7a5648ce36fb0c23e2f5253&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjQwNmI0YTA0YWVlNDU2ZWNlNmYxNDRmOTY5YjhiNzQ2In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI0MDZiNGEwNGFlZTQ1NmVjZTZmMTQ0Zjk2OWI4Yjc0NiIsImlhdCI6MTYzNzQ3NDA0NywiZXhwIjoxNjQ1MjUwMDQ3LCJ1aWQiOjE0NjQ3NDY3LCJtb2JpbGUiOiIxMzIxOTY2MDg4MiJ9.aqqcQdM7bZnFR1-cfcD_yXyThWY5Sh3Gb1biCyI1eeU
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T09:01:45+08:00 ] 112.195.83.221 GET www.snztc.cn/?channelCode=201&cl_id=702048p523v8rdd6&app_id=com.yicong.ants&uuid=32fed002b835f5367a600dc4ce533264aa7807edc7a5648ce36fb0c23e2f5253&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjQwNmI0YTA0YWVlNDU2ZWNlNmYxNDRmOTY5YjhiNzQ2In0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI0MDZiNGEwNGFlZTQ1NmVjZTZmMTQ0Zjk2OWI4Yjc0NiIsImlhdCI6MTYzNzQ3NDA0NywiZXhwIjoxNjQ1MjUwMDQ3LCJ1aWQiOjE0NjQ3NDY3LCJtb2JpbGUiOiIxMzIxOTY2MDg4MiJ9.aqqcQdM7bZnFR1-cfcD_yXyThWY5Sh3Gb1biCyI1eeU
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T11:06:29+08:00 ] 116.95.239.118 GET www.snztc.cn/?channelCode=201&cl_id=4ca388pqd1za2f1c&app_id=com.yicong.ants&uuid=9dcffaff-ec9f-ecc9-cfaf-e73fffe1ac2c&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImZiNmZkYmU0N2Y3YmVlZThhZWRmZWJhYTJkMTg5NGJiIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJmYjZmZGJlNDdmN2JlZWU4YWVkZmViYWEyZDE4OTRiYiIsImlhdCI6MTYzODIzOTY2MywiZXhwIjoxNjQ2MDE1NjYzLCJ1aWQiOjEzOTk1MDI3LCJtb2JpbGUiOiIxOTkwOTM0MTgyNCJ9.IShcJ0A8qGQcZvgUcHVY45KoFraNa8ftNhr4CP5oROw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T11:06:29+08:00 ] 116.95.239.118 GET www.snztc.cn/?channelCode=201&cl_id=4ca388pqd1za2f1c&app_id=com.yicong.ants&uuid=9dcffaff-ec9f-ecc9-cfaf-e73fffe1ac2c&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImZiNmZkYmU0N2Y3YmVlZThhZWRmZWJhYTJkMTg5NGJiIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJmYjZmZGJlNDdmN2JlZWU4YWVkZmViYWEyZDE4OTRiYiIsImlhdCI6MTYzODIzOTY2MywiZXhwIjoxNjQ2MDE1NjYzLCJ1aWQiOjEzOTk1MDI3LCJtb2JpbGUiOiIxOTkwOTM0MTgyNCJ9.IShcJ0A8qGQcZvgUcHVY45KoFraNa8ftNhr4CP5oROw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T11:06:29+08:00 ] 116.95.239.118 GET www.snztc.cn/?channelCode=201&cl_id=4ca388pqd1za2f1c&app_id=com.yicong.ants&uuid=9dcffaff-ec9f-ecc9-cfaf-e73fffe1ac2c&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImZiNmZkYmU0N2Y3YmVlZThhZWRmZWJhYTJkMTg5NGJiIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJmYjZmZGJlNDdmN2JlZWU4YWVkZmViYWEyZDE4OTRiYiIsImlhdCI6MTYzODIzOTY2MywiZXhwIjoxNjQ2MDE1NjYzLCJ1aWQiOjEzOTk1MDI3LCJtb2JpbGUiOiIxOTkwOTM0MTgyNCJ9.IShcJ0A8qGQcZvgUcHVY45KoFraNa8ftNhr4CP5oROw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T11:06:29+08:00 ] 116.95.239.118 GET www.snztc.cn/?channelCode=201&cl_id=4ca388pqd1za2f1c&app_id=com.yicong.ants&uuid=9dcffaff-ec9f-ecc9-cfaf-e73fffe1ac2c&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImZiNmZkYmU0N2Y3YmVlZThhZWRmZWJhYTJkMTg5NGJiIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJmYjZmZGJlNDdmN2JlZWU4YWVkZmViYWEyZDE4OTRiYiIsImlhdCI6MTYzODIzOTY2MywiZXhwIjoxNjQ2MDE1NjYzLCJ1aWQiOjEzOTk1MDI3LCJtb2JpbGUiOiIxOTkwOTM0MTgyNCJ9.IShcJ0A8qGQcZvgUcHVY45KoFraNa8ftNhr4CP5oROw
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T13:27:07+08:00 ] 39.154.33.60 GET www.snztc.cn/?channelCode=201&cl_id=5854b8pgmpme24e4&app_id=com.yicong.ants&uuid=294625b0-7d02-42a9-9bba-94949f962fbb&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjE0N2EyODg1Zjk3ODFiMWViNjU5NmYxMjE2ODJmZTAwIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIxNDdhMjg4NWY5NzgxYjFlYjY1OTZmMTIxNjgyZmUwMCIsImlhdCI6MTYzNzk3MDI0NCwiZXhwIjoxNjQ1NzQ2MjQ0LCJ1aWQiOjE0MjM2MTE2LCJtb2JpbGUiOiIxNTEwNDgzMTY5MSJ9.MSRhDI15m9_FfpGBzgkGMFEhkXgyAjCCdjfCKrUcnlE
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T13:27:07+08:00 ] 39.154.33.60 GET www.snztc.cn/?channelCode=201&cl_id=5854b8pgmpme24e4&app_id=com.yicong.ants&uuid=294625b0-7d02-42a9-9bba-94949f962fbb&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjE0N2EyODg1Zjk3ODFiMWViNjU5NmYxMjE2ODJmZTAwIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIxNDdhMjg4NWY5NzgxYjFlYjY1OTZmMTIxNjgyZmUwMCIsImlhdCI6MTYzNzk3MDI0NCwiZXhwIjoxNjQ1NzQ2MjQ0LCJ1aWQiOjE0MjM2MTE2LCJtb2JpbGUiOiIxNTEwNDgzMTY5MSJ9.MSRhDI15m9_FfpGBzgkGMFEhkXgyAjCCdjfCKrUcnlE
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T13:27:07+08:00 ] 39.154.33.60 GET www.snztc.cn/?channelCode=201&cl_id=5854b8pgmpme24e4&app_id=com.yicong.ants&uuid=294625b0-7d02-42a9-9bba-94949f962fbb&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjE0N2EyODg1Zjk3ODFiMWViNjU5NmYxMjE2ODJmZTAwIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIxNDdhMjg4NWY5NzgxYjFlYjY1OTZmMTIxNjgyZmUwMCIsImlhdCI6MTYzNzk3MDI0NCwiZXhwIjoxNjQ1NzQ2MjQ0LCJ1aWQiOjE0MjM2MTE2LCJtb2JpbGUiOiIxNTEwNDgzMTY5MSJ9.MSRhDI15m9_FfpGBzgkGMFEhkXgyAjCCdjfCKrUcnlE
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T13:27:07+08:00 ] 39.154.33.60 GET www.snztc.cn/?channelCode=201&cl_id=5854b8pgmpme24e4&app_id=com.yicong.ants&uuid=294625b0-7d02-42a9-9bba-94949f962fbb&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjE0N2EyODg1Zjk3ODFiMWViNjU5NmYxMjE2ODJmZTAwIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIxNDdhMjg4NWY5NzgxYjFlYjY1OTZmMTIxNjgyZmUwMCIsImlhdCI6MTYzNzk3MDI0NCwiZXhwIjoxNjQ1NzQ2MjQ0LCJ1aWQiOjE0MjM2MTE2LCJtb2JpbGUiOiIxNTEwNDgzMTY5MSJ9.MSRhDI15m9_FfpGBzgkGMFEhkXgyAjCCdjfCKrUcnlE
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T13:27:08+08:00 ] 39.154.33.60 GET www.snztc.cn/?channelCode=201&cl_id=5854b8pgmpme24e4&app_id=com.yicong.ants&uuid=294625b0-7d02-42a9-9bba-94949f962fbb&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjE0N2EyODg1Zjk3ODFiMWViNjU5NmYxMjE2ODJmZTAwIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIxNDdhMjg4NWY5NzgxYjFlYjY1OTZmMTIxNjgyZmUwMCIsImlhdCI6MTYzNzk3MDI0NCwiZXhwIjoxNjQ1NzQ2MjQ0LCJ1aWQiOjE0MjM2MTE2LCJtb2JpbGUiOiIxNTEwNDgzMTY5MSJ9.MSRhDI15m9_FfpGBzgkGMFEhkXgyAjCCdjfCKrUcnlE
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T13:27:08+08:00 ] 39.154.33.60 GET www.snztc.cn/?channelCode=201&cl_id=5854b8pgmpme24e4&app_id=com.yicong.ants&uuid=294625b0-7d02-42a9-9bba-94949f962fbb&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjE0N2EyODg1Zjk3ODFiMWViNjU5NmYxMjE2ODJmZTAwIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIxNDdhMjg4NWY5NzgxYjFlYjY1OTZmMTIxNjgyZmUwMCIsImlhdCI6MTYzNzk3MDI0NCwiZXhwIjoxNjQ1NzQ2MjQ0LCJ1aWQiOjE0MjM2MTE2LCJtb2JpbGUiOiIxNTEwNDgzMTY5MSJ9.MSRhDI15m9_FfpGBzgkGMFEhkXgyAjCCdjfCKrUcnlE
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T13:27:08+08:00 ] 39.154.33.60 GET www.snztc.cn/?channelCode=201&cl_id=5854b8pgmpme24e4&app_id=com.yicong.ants&uuid=294625b0-7d02-42a9-9bba-94949f962fbb&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjE0N2EyODg1Zjk3ODFiMWViNjU5NmYxMjE2ODJmZTAwIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIxNDdhMjg4NWY5NzgxYjFlYjY1OTZmMTIxNjgyZmUwMCIsImlhdCI6MTYzNzk3MDI0NCwiZXhwIjoxNjQ1NzQ2MjQ0LCJ1aWQiOjE0MjM2MTE2LCJtb2JpbGUiOiIxNTEwNDgzMTY5MSJ9.MSRhDI15m9_FfpGBzgkGMFEhkXgyAjCCdjfCKrUcnlE
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T13:27:08+08:00 ] 39.154.33.60 GET www.snztc.cn/?channelCode=201&cl_id=5854b8pgmpme24e4&app_id=com.yicong.ants&uuid=294625b0-7d02-42a9-9bba-94949f962fbb&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjE0N2EyODg1Zjk3ODFiMWViNjU5NmYxMjE2ODJmZTAwIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiIxNDdhMjg4NWY5NzgxYjFlYjY1OTZmMTIxNjgyZmUwMCIsImlhdCI6MTYzNzk3MDI0NCwiZXhwIjoxNjQ1NzQ2MjQ0LCJ1aWQiOjE0MjM2MTE2LCJtb2JpbGUiOiIxNTEwNDgzMTY5MSJ9.MSRhDI15m9_FfpGBzgkGMFEhkXgyAjCCdjfCKrUcnlE
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T15:00:56+08:00 ] 0.0.0.0 GET www.snztc.cn/?channelCode=201&cl_id=582c58pgm37ft77b&app_id=com.yicong.ants&uuid=739c28a0b4322d90c66d91a0dcced9c4fa91bfab90d539d07450762fc8431433&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImFlMmI4MTFiMjljOTU0NGI3YmFmMTA0Y2E4OTE2ZDgyIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJhZTJiODExYjI5Yzk1NDRiN2JhZjEwNGNhODkxNmQ4MiIsImlhdCI6MTYzODY4NjUzNSwiZXhwIjoxNjQ2NDYyNTM1LCJ1aWQiOjE1MjIwMjU1LCJtb2JpbGUiOiIxODE5MDExNjYwMSJ9.ozJDDLigfVjnXgHBrGrE-aBOW_zovnMmNeqg4EoE3_Q
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T15:00:57+08:00 ] 0.0.0.0 GET www.snztc.cn/?channelCode=201&cl_id=582c58pgm37ft77b&app_id=com.yicong.ants&uuid=739c28a0b4322d90c66d91a0dcced9c4fa91bfab90d539d07450762fc8431433&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImFlMmI4MTFiMjljOTU0NGI3YmFmMTA0Y2E4OTE2ZDgyIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJhZTJiODExYjI5Yzk1NDRiN2JhZjEwNGNhODkxNmQ4MiIsImlhdCI6MTYzODY4NjUzNSwiZXhwIjoxNjQ2NDYyNTM1LCJ1aWQiOjE1MjIwMjU1LCJtb2JpbGUiOiIxODE5MDExNjYwMSJ9.ozJDDLigfVjnXgHBrGrE-aBOW_zovnMmNeqg4EoE3_Q
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T15:00:57+08:00 ] 0.0.0.0 GET www.snztc.cn/?channelCode=201&cl_id=582c58pgm37ft77b&app_id=com.yicong.ants&uuid=739c28a0b4322d90c66d91a0dcced9c4fa91bfab90d539d07450762fc8431433&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImFlMmI4MTFiMjljOTU0NGI3YmFmMTA0Y2E4OTE2ZDgyIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJhZTJiODExYjI5Yzk1NDRiN2JhZjEwNGNhODkxNmQ4MiIsImlhdCI6MTYzODY4NjUzNSwiZXhwIjoxNjQ2NDYyNTM1LCJ1aWQiOjE1MjIwMjU1LCJtb2JpbGUiOiIxODE5MDExNjYwMSJ9.ozJDDLigfVjnXgHBrGrE-aBOW_zovnMmNeqg4EoE3_Q
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T15:00:57+08:00 ] 0.0.0.0 GET www.snztc.cn/?channelCode=201&cl_id=582c58pgm37ft77b&app_id=com.yicong.ants&uuid=739c28a0b4322d90c66d91a0dcced9c4fa91bfab90d539d07450762fc8431433&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImFlMmI4MTFiMjljOTU0NGI3YmFmMTA0Y2E4OTE2ZDgyIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiJhZTJiODExYjI5Yzk1NDRiN2JhZjEwNGNhODkxNmQ4MiIsImlhdCI6MTYzODY4NjUzNSwiZXhwIjoxNjQ2NDYyNTM1LCJ1aWQiOjE1MjIwMjU1LCJtb2JpbGUiOiIxODE5MDExNjYwMSJ9.ozJDDLigfVjnXgHBrGrE-aBOW_zovnMmNeqg4EoE3_Q
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T19:08:49+08:00 ] 112.50.155.62 GET www.snztc.cn/?channelCode=201&cl_id=0fc208plpktxs25a&app_id=com.yicong.ants&uuid=45afd248ae10926dc2b5a1dea1e2394e2db9bb01066cf83e3e4831192afa3310&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjcyYWMzYWUyMzZiZmI0YmZlNDAwYjhlMjgzNDE0NjRkIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI3MmFjM2FlMjM2YmZiNGJmZTQwMGI4ZTI4MzQxNDY0ZCIsImlhdCI6MTYzNzEwNzM1MywiZXhwIjoxNjQ0ODgzMzUzLCJ1aWQiOjE0NTIzODE4LCJtb2JpbGUiOiIxMzMwNjA4MDk5MyJ9.MAypoil1g7qT5N5La3dvhoqXz_wVqn5QwxANglHb3ZY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T19:08:49+08:00 ] 112.50.155.62 GET www.snztc.cn/?channelCode=201&cl_id=0fc208plpktxs25a&app_id=com.yicong.ants&uuid=45afd248ae10926dc2b5a1dea1e2394e2db9bb01066cf83e3e4831192afa3310&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjcyYWMzYWUyMzZiZmI0YmZlNDAwYjhlMjgzNDE0NjRkIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI3MmFjM2FlMjM2YmZiNGJmZTQwMGI4ZTI4MzQxNDY0ZCIsImlhdCI6MTYzNzEwNzM1MywiZXhwIjoxNjQ0ODgzMzUzLCJ1aWQiOjE0NTIzODE4LCJtb2JpbGUiOiIxMzMwNjA4MDk5MyJ9.MAypoil1g7qT5N5La3dvhoqXz_wVqn5QwxANglHb3ZY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T19:08:49+08:00 ] 112.50.155.62 GET www.snztc.cn/?channelCode=201&cl_id=0fc208plpktxs25a&app_id=com.yicong.ants&uuid=45afd248ae10926dc2b5a1dea1e2394e2db9bb01066cf83e3e4831192afa3310&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjcyYWMzYWUyMzZiZmI0YmZlNDAwYjhlMjgzNDE0NjRkIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI3MmFjM2FlMjM2YmZiNGJmZTQwMGI4ZTI4MzQxNDY0ZCIsImlhdCI6MTYzNzEwNzM1MywiZXhwIjoxNjQ0ODgzMzUzLCJ1aWQiOjE0NTIzODE4LCJtb2JpbGUiOiIxMzMwNjA4MDk5MyJ9.MAypoil1g7qT5N5La3dvhoqXz_wVqn5QwxANglHb3ZY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T19:08:49+08:00 ] 112.50.155.62 GET www.snztc.cn/?channelCode=201&cl_id=0fc208plpktxs25a&app_id=com.yicong.ants&uuid=45afd248ae10926dc2b5a1dea1e2394e2db9bb01066cf83e3e4831192afa3310&platform=2&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjcyYWMzYWUyMzZiZmI0YmZlNDAwYjhlMjgzNDE0NjRkIn0.eyJpc3MiOiJodHRwczpcL1wvYXBpLmNxeWljb25na2VqaS5jb20iLCJhdWQiOiJjbGllbnQiLCJqdGkiOiI3MmFjM2FlMjM2YmZiNGJmZTQwMGI4ZTI4MzQxNDY0ZCIsImlhdCI6MTYzNzEwNzM1MywiZXhwIjoxNjQ0ODgzMzUzLCJ1aWQiOjE0NTIzODE4LCJtb2JpbGUiOiIxMzMwNjA4MDk5MyJ9.MAypoil1g7qT5N5La3dvhoqXz_wVqn5QwxANglHb3ZY
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T22:31:46+08:00 ] 118.254.22.3 GET www.snztc.cn/?channelCode=201&cl_id=7b09e8pu35mfn83b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T22:31:46+08:00 ] 118.254.22.3 GET www.snztc.cn/?channelCode=201&cl_id=7b09e8pu35mfn83b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T22:31:46+08:00 ] 118.254.22.3 GET www.snztc.cn/?channelCode=201&cl_id=7b09e8pu35mfn83b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T22:31:46+08:00 ] 118.254.22.3 GET www.snztc.cn/?channelCode=201&cl_id=7b09e8pu35mfn83b
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T22:31:49+08:00 ] 118.254.22.3 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T22:31:49+08:00 ] 118.254.22.3 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T22:31:49+08:00 ] 118.254.22.3 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-12-05T22:31:49+08:00 ] 118.254.22.3 GET www.snztc.cn/
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused

@@ -1,0 +1,51 @@
+---------------------------------------------------------------
+[ 2021-11-29T12:21:24+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:24+08:00 ] 152.32.216.214 POST www.kqfnrn.cn/api/user/mobilelogin
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:24+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:25+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:26+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/common/getConfig
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:27+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:28+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:28+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:29+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/ismustmobile
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:36+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:36+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:37+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:38+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/get_user_group
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:42+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/dataDictionaryService/list
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:43+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/dataDictionaryService/list
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:44+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/dataDictionaryService/list
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
+---------------------------------------------------------------
+[ 2021-11-29T12:21:45+08:00 ] 152.32.216.214 GET www.kqfnrn.cn/api/user/dataDictionaryService/list
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused
